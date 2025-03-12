@@ -19,7 +19,5 @@ public class Assignment6 {
         System.out.println("s2 = " + s2);
         long s3 = sum(3, 100);
         System.out.println("s3 = " + s3);
-        long s4 = sum(7, 234);
-        System.out.println("s4 = " + s4);
     }
 }
